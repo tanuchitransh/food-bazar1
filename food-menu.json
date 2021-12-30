@@ -1,0 +1,57 @@
+[{
+  "_id": {
+    "$oid": "5eee651f739f8c674fd736ee"
+  },
+  "name": "Panner Tikka",
+  "image": "menu1.png",
+  "price": "250"
+},{
+  "_id": {
+    "$oid": "5eee6671a27a66807cf2bea3"
+  },
+  "name": "Dal Fry",
+  "image": "menu2.png",
+  "price": "180"
+},{
+  "_id": {
+    "$oid": "5eee6692a27a66807cf2bea4"
+  },
+  "name": "Butter panner Masala",
+  "image": "menu3.png",
+  "price": "270"
+},{
+  "_id": {
+    "$oid": "5eee66a5a27a66807cf2bea5"
+  },
+  "name": "Malai Kofta",
+  "image": "menu4.png",
+  "price": "230"
+},{
+  "_id": {
+    "$oid": "5eee66c4a27a66807cf2bea6"
+  },
+  "name": "Butter Chiken",
+  "image": "menu5.png",
+  "price": "300"
+},{
+  "_id": {
+    "$oid": "5eee66cfa27a66807cf2bea7"
+  },
+  "name": "Chawmine",
+  "image": "menu6.png",
+  "price": "150"
+},{
+  "_id": {
+    "$oid": "5eee66eea27a66807cf2bea8"
+  },
+  "name": "Pav Bhaji",
+  "image": "menu7.png",
+  "price": "160"
+},{
+  "_id": {
+    "$oid": "5eee6717a27a66807cf2bea9"
+  },
+  "name": "Chole Bhature",
+  "image": "menu8.png",
+  "price": "180"
+}]
